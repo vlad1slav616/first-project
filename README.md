@@ -6,5 +6,5 @@
 
 
 
-Здесь \[Клик](https://github.com/vlad1slav616/first-project/ "Перейдите к проекту") расположена ссылка на мой первый проект.
+\[Здесь](https://github.com/vlad1slav616/first-project/) расположена ссылка на мой первый проект.
 
